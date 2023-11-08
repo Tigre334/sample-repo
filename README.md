@@ -1,2 +1,2 @@
 # sample-repo
-for training git
+Update
